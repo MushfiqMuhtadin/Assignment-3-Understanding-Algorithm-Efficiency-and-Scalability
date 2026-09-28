@@ -1,0 +1,3 @@
+hash_function,max_chain,non_empty_slots
+division  h(k) = k mod m,1024,1
+universal ((a*k+b) mod p) mod m,2,757
